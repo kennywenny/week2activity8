@@ -20,6 +20,7 @@ header {
 
 nav {
   display: flex;
+  justify-content: right;
   background-color: #d8a47f;
 }
 
